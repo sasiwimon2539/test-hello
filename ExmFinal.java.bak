@@ -1,0 +1,15 @@
+class Exmfinal 
+{
+	public static void main(String[] args)
+	{
+		java.util.Scanner sc=new java.util.Scanner(System.in);
+		String concatStr="AaBbCcDdEeFfGgHhIiJjKkLlMmNnOoPpQqRrSsTtUuVvWwXxYyZz";
+		 int ()
+         char varAz='A';
+		 for (var='A';varAz<='Z';varAz++ )
+
+         {
+			System.out.println(Az+":"+Az);
+	    }
+   }
+}
